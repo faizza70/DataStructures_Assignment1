@@ -1,3 +1,9 @@
+Name: Faiza Abdirahman Abdulle
+Student ID: C6240272
+Class : CNS243
+Course: Data Structures
+Assignment: Assignment 1
+
 ​Data Structures using Java - Assignment 1
 ​Overview
 This repository contains solutions for Assignment 1 of the Data Structures course using Java in IntelliJ IDEA.
